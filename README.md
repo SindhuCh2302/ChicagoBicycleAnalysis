@@ -4,9 +4,9 @@
 **Objective**
 The primary goal of this case study is to explore how Cyclistic, a bike-sharing company, can increase its annual memberships by converting casual riders into members. Specifically, we aim to answer:
 
-**1. How do annual members and casual riders use Cyclistic bikes differently?\n
-2. What factors would motivate casual riders to purchase annual memberships?
-3. How can Cyclistic leverage digital media to encourage casual riders to become members?**
+**1. How do annual members and casual riders use Cyclistic bikes differently?**
+**2. What factors would motivate casual riders to purchase annual memberships?**
+**3. How can Cyclistic leverage digital media to encourage casual riders to become members?**
 
 **Data Preparation**
 The dataset consists of monthly trip data provided in .zip format. For this analysis, I downloaded and extracted 12 months of data, each contained in a separate .csv file. Since the data is readily available, there was no need for additional data mining or web scraping.
