@@ -19,19 +19,19 @@ In this step we process the data and prepare it for our next step where we will 
 
 # We have 13 columns and we can infer their content:
 
-ride_id: Id for each trip taken, as of now we are not sure if they are unique or not, we have to find out
-rideable_type: Represents the type of a bike
-started_at: Date and time of the start time
-ended_at: Date and time of the end time
-start_station_name: Name of the starting station
-start_station_id: Id of the starting station 
-end_station_name: Name of the ending station
-end_station_id: Id of the ending station
-start_lat: Latitude of the starting point
-start_lng: Longitude of the starting point
-end_lat: Latitude of the ending point
-end_lng: Longitude of the ending point
-member_casual: Represents the membership status
+1. **ride_id:** Id for each trip taken, as of now we are not sure if they are unique or not, we have to find out
+2. **rideable_type:** Represents the type of a bike
+3. **started_at**: Date and time of the start time
+4. **ended_at**: Date and time of the end time
+5. **start_station_name**: Name of the starting station
+6. **start_station_id**: Id of the starting station
+7. **end_station_name**: Name of the ending station
+8. **end_station_id**: Id of the ending station
+9. **start_lat**: Latitude of the starting point
+10. **start_lng**: Longitude of the starting point
+11. **end_lat**: Latitude of the ending point
+12. **end_lng**: Longitude of the ending point
+13. **member_casual**: Represents the membership status
 
 # Share
 After tons of codes and analysis, it's time to share our results and to answer the question "How can we convert casuals to members?". 
