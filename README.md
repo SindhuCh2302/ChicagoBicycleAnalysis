@@ -5,7 +5,9 @@
 The primary goal of this case study is to explore how Cyclistic, a bike-sharing company, can increase its annual memberships by converting casual riders into members. Specifically, we aim to answer:
 
 **1. How do annual members and casual riders use Cyclistic bikes differently?**
+
 **2. What factors would motivate casual riders to purchase annual memberships?**
+
 **3. How can Cyclistic leverage digital media to encourage casual riders to become members?**
 
 **Data Preparation**
@@ -68,5 +70,7 @@ To effectively promote memberships, Cyclistic should utilize digital marketing s
 Targeted Ads & Email Campaigns: Personalized promotions based on riding patterns (e.g., offering membership discounts to frequent weekend riders).
 Social Media Engagement: Sharing member testimonials, exclusive perks, and community events to highlight the benefits of joining.
 In-App Promotions: Displaying pop-ups or notifications showing how much casual riders could save if they switched to a membership.
+
+
 **Conclusion**
 Although our dataset does not track users transitioning from casual to member status, our analysis provides valuable insights into user behavior. By implementing strategic pricing, enhancing member perks, and leveraging digital media for personalized marketing, Cyclistic can increase its annual memberships and maximize customer retention.
