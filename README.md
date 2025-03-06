@@ -37,9 +37,12 @@ The dataset consists of 13 columns, as outlined below:
 While the dataset does not provide longitudinal data on individual users transitioning from casual riders to members, it still offers valuable insights into user behavior patterns. Here’s what we discovered:
 
 **Differences in Bike Usage Between Members and Casual Riders:**
+
 **Weekly Trends:**
+
 Members consistently use bikes throughout the week, with slightly lower usage on Sundays. This suggests that many members rely on bike-sharing as a part of their daily commute.
 Casual riders, on the other hand, have significantly higher usage on weekends, particularly on Saturdays.
+
 **Bike Type Preferences:**
 
 Docked bikes are the most popular among both groups, but casual riders use them more frequently than members.
@@ -53,7 +56,9 @@ Casual users tend to start and end trips at the same station, whereas members sh
 Data Quality Issues:
 
 Around 200,000 trips have missing start or end station names, and all of these instances involve electric bikes. Out of 888,224 electric bike rides, approximately 200,000 lack location data.
+
 **Recommendations for Converting Casual Riders into Members**
+
 **Based on these insights, we propose the following strategies to encourage casual riders to purchase memberships:**
 1. Adjust Pricing for Casual Users on Weekends
 Since casual riders prefer using bikes for longer durations and mostly on weekends, increasing rental prices during peak weekend hours could encourage them to consider the cost-effectiveness of a membership. This strategy could be particularly effective for docked bikes, which are more popular among casual users.
@@ -72,5 +77,6 @@ Social Media Engagement: Sharing member testimonials, exclusive perks, and commu
 In-App Promotions: Displaying pop-ups or notifications showing how much casual riders could save if they switched to a membership.
 
 
-**Conclusion**
+**Conclusion:**
+
 Although our dataset does not track users transitioning from casual to member status, our analysis provides valuable insights into user behavior. By implementing strategic pricing, enhancing member perks, and leveraging digital media for personalized marketing, Cyclistic can increase its annual memberships and maximize customer retention.
