@@ -17,19 +17,19 @@ Given the large dataset (approximately 4,073,561 records), I used PySpark SQL in
 **Dataset Overview**
 The dataset consists of 13 columns, as outlined below:
 
-ride_id – Unique identifier for each trip (to be verified for uniqueness).
-rideable_type – Type of bike used.
-started_at – Start date and time of the ride.
-ended_at – End date and time of the ride.
-start_station_name – Name of the starting station.
-start_station_id – Unique identifier for the starting station.
-end_station_name – Name of the ending station.
-end_station_id – Unique identifier for the ending station.
-start_lat – Latitude of the starting location.
-start_lng – Longitude of the starting location.
-end_lat – Latitude of the ending location.
-end_lng – Longitude of the ending location.
-member_casual – Indicates whether the user is a member or a casual rider.
+1. ride_id – Unique identifier for each trip (to be verified for uniqueness).
+2. rideable_type – Type of bike used.
+3. started_at – Start date and time of the ride.
+4. ended_at – End date and time of the ride.
+5. start_station_name – Name of the starting station.
+6. start_station_id – Unique identifier for the starting station.
+7. end_station_name – Name of the ending station.
+8. end_station_id – Unique identifier for the ending station.
+9. start_lat – Latitude of the starting location.
+10. start_lng – Longitude of the starting location.
+11. end_lat – Latitude of the ending location.
+12. end_lng – Longitude of the ending location.
+13. member_casual – Indicates whether the user is a member or a casual rider.
 
 **Findings & Insights**
 While the dataset does not provide longitudinal data on individual users transitioning from casual riders to members, it still offers valuable insights into user behavior patterns. Here’s what we discovered:
